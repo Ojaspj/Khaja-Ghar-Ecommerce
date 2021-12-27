@@ -13,7 +13,6 @@ This repository contains frontend design for Khaja Ghar(MERN E-Commerce Store).
 <img src="./public/images/screenshot4.png" alt="screenshot" width="350">
 <br>
 
-For Backend:[Click Here](https://www.github.com/PrameshKarki/Khaja-Ghar-Backend)
 
 ## Available Scripts
 
